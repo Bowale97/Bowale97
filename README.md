@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Wale, a Data Analyst 👋🏾
+![Image of developer](https://github.com/OsasAzamegbe/OsasAzamegbe/blob/master/images/octocat-1607451410050.png?raw=true)
 
-<!--
-**Bowale97/Bowale97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What makes me tick you ask? 🤗:**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python projects involving data analysis and visualization!
+- 🌱 I’m currently learning SQL and other exciting data tools and technologies.
+- 👯 I’m looking to collaborate on exciting data engineering projects 🤓.
+- 🤔 I’m looking for help with contributions to my current projects :) 
+- 💬 Ask me about anything!
+- 📫 How to reach me: musaolabowale@gmail.com.
+- 😄 Pronouns: Him/He 💆🏾‍♂️.
+- ⚡ Fun fact: When I am not face deep debugging code or playing with SQL, you will catch me playing game online 🎮 or at the park doing yoga.
